@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, C#, .NET**
 
-- 📫 How to reach me **kayamuhammet78@gmail.com**
+- 📫 How to reach me **www.kayamuhammet.com**  **|** **kayamuhammet78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
